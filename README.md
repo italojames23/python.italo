@@ -1,2 +1,2 @@
-# python.italo
+# python.basic
  
